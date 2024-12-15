@@ -10,9 +10,10 @@ React responsive Gym Website using ReactJs
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/gym-website?logo=GitHub)](https://github.com/letnagao/gym-website/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
+
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99754900/178131437-4b89e398-f451-46b5-b40e-a5fa2275166c.jpg" />
+  <img src="https://github.com/user-attachments/assets/6777f2bd-c11b-4ba7-8ddc-f5279765f042" />
 </p>
 
 ## Features 🔥
