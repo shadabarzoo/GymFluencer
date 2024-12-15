@@ -7,7 +7,6 @@ React responsive Gym Website using ReactJs
 ![Repo size](https://img.shields.io/github/repo-size/letnagao/gym-website?color=yellow)
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/gym-website?color=blue)
 ![Latest commit](https://img.shields.io/github/last-commit/letnagao/gym-website?color=red)
-[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/gym-website?logo=GitHub)](https://github.com/letnagao/gym-website/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
 
@@ -22,8 +21,6 @@ React responsive Gym Website using ReactJs
 ✔️ Asynchronous events handling <br />
 ✔️ Performance improvement with lazy loading <br />
 
-## Website 💻
-https://the-fit-club.pages.dev/
 
 ## Technologies used 🛠️
 **Design**: *Css & Styled Components*<br />
@@ -42,7 +39,7 @@ https://the-fit-club.pages.dev/
 
 ```bash
 #1. clone this project
-~ git clone https://github.com/letnagao/gym-website.git
+~ git clone https://github.com/shadabarzoo/GymFluencer.git
 #2. cd into it
 ~ cd gym-website
 #3. install serevr dependencies
@@ -63,16 +60,8 @@ https://the-fit-club.pages.dev/
 
 </details>
 
-## Disclamer ❗️
-A word of disclaimer, I may have made some changes to it or added other content, but the code is not completely original!
-I am simply a student passionate about Front-end and the intersection of code and design, I always try to do courses and projects during my free time, so I must warn you that this code is NOT ORIGINAL.
-
-You can find the source of this code via: https://www.patreon.com/zainkeepscode
-
 ## Contributing 💡
 Pull request are welcome but please open an issue and discuss what you will do before 😊
 
 ## Like this project? 💖
-
-If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
 
